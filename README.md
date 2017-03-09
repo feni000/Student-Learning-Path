@@ -31,6 +31,7 @@ My private suggestion for students about subject that should be learned before b
       - return types, void functions
       - passing parameters by value
       - passing paremeters by reference
+        - diffrences between ref, out, and normal parameter
       - passing arrays as parameter
       - overloading methods
       - recursion
