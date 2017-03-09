@@ -1,5 +1,7 @@
 # Student-Learning-Path
 
+My private suggestion for students about subject that should be learned before becoming a software developer
+
 ## Table of Contents
 
 - Programming
