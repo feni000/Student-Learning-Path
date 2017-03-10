@@ -56,10 +56,31 @@ My private suggestion for students about subject that should be learned before b
       - Simple Application using winforms
   - C#
     - TODO
+    - Interfaces
+    - Reflection
+    - Actions, Functions
+    - Events
+    - Entity Framework
+    - Simple WinForms App/ Simple WPF App
   - SQL
-    - TODO
+    - SELECT
+    - JOIN 
+      - LEFT
+      - RIGHT
+      - Other types
+    - WHERE
+    - HAVING
+    - GROUP BY
+    - Functions
+    - Triggers
+    - Connection strings
+    - General knowledge on what is RDB
+    - How to set up database
   - HTML/CSS
     - TODO
+    - Learn Basics of HTML/CSS
+    - Build simple html/css elements
+    - Learn how to use bootstrap
   - General Knowledge
     - What are design patterns (at least 1 pattern good knowledge)
     - System Version Control
