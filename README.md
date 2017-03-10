@@ -61,7 +61,12 @@ My private suggestion for students about subject that should be learned before b
   - HTML/CSS
     - TODO
   - General Knowledge
-    - TODO
+    - What are design patterns (at least 1 pattern good knowledge)
+    - System Version Control
+    - What is logging system
+    - What is console (how to use it)
+    - What is service (how to use it)
+    - What is API (how to use it)
 - Learning Plan
   - Theory from the books about every subject
   - Few simple excercises to get familiar with technology
